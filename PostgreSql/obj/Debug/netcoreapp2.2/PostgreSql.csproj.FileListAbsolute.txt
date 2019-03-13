@@ -1,0 +1,14 @@
+C:\Projects\Studies\CSharp\DbConnections\DbConnections\PostgreSql\bin\Debug\netcoreapp2.2\PostgreSql.deps.json
+C:\Projects\Studies\CSharp\DbConnections\DbConnections\PostgreSql\bin\Debug\netcoreapp2.2\PostgreSql.runtimeconfig.json
+C:\Projects\Studies\CSharp\DbConnections\DbConnections\PostgreSql\bin\Debug\netcoreapp2.2\PostgreSql.runtimeconfig.dev.json
+C:\Projects\Studies\CSharp\DbConnections\DbConnections\PostgreSql\bin\Debug\netcoreapp2.2\PostgreSql.dll
+C:\Projects\Studies\CSharp\DbConnections\DbConnections\PostgreSql\bin\Debug\netcoreapp2.2\PostgreSql.pdb
+C:\Projects\Studies\CSharp\DbConnections\DbConnections\PostgreSql\obj\Debug\netcoreapp2.2\PostgreSql.csprojAssemblyReference.cache
+C:\Projects\Studies\CSharp\DbConnections\DbConnections\PostgreSql\obj\Debug\netcoreapp2.2\PostgreSql.csproj.CoreCompileInputs.cache
+C:\Projects\Studies\CSharp\DbConnections\DbConnections\PostgreSql\obj\Debug\netcoreapp2.2\PostgreSql.RazorAssemblyInfo.cache
+C:\Projects\Studies\CSharp\DbConnections\DbConnections\PostgreSql\obj\Debug\netcoreapp2.2\PostgreSql.RazorAssemblyInfo.cs
+C:\Projects\Studies\CSharp\DbConnections\DbConnections\PostgreSql\obj\Debug\netcoreapp2.2\PostgreSql.AssemblyInfoInputs.cache
+C:\Projects\Studies\CSharp\DbConnections\DbConnections\PostgreSql\obj\Debug\netcoreapp2.2\PostgreSql.AssemblyInfo.cs
+C:\Projects\Studies\CSharp\DbConnections\DbConnections\PostgreSql\obj\Debug\netcoreapp2.2\PostgreSql.RazorTargetAssemblyInfo.cache
+C:\Projects\Studies\CSharp\DbConnections\DbConnections\PostgreSql\obj\Debug\netcoreapp2.2\PostgreSql.dll
+C:\Projects\Studies\CSharp\DbConnections\DbConnections\PostgreSql\obj\Debug\netcoreapp2.2\PostgreSql.pdb
