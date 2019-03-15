@@ -1,0 +1,14 @@
+C:\Projects\Studies\CSharp\DbConnections\DbConnections\MongoDb\bin\Debug\netcoreapp2.2\MongoDb.deps.json
+C:\Projects\Studies\CSharp\DbConnections\DbConnections\MongoDb\bin\Debug\netcoreapp2.2\MongoDb.runtimeconfig.json
+C:\Projects\Studies\CSharp\DbConnections\DbConnections\MongoDb\bin\Debug\netcoreapp2.2\MongoDb.runtimeconfig.dev.json
+C:\Projects\Studies\CSharp\DbConnections\DbConnections\MongoDb\bin\Debug\netcoreapp2.2\MongoDb.dll
+C:\Projects\Studies\CSharp\DbConnections\DbConnections\MongoDb\bin\Debug\netcoreapp2.2\MongoDb.pdb
+C:\Projects\Studies\CSharp\DbConnections\DbConnections\MongoDb\obj\Debug\netcoreapp2.2\MongoDb.csprojAssemblyReference.cache
+C:\Projects\Studies\CSharp\DbConnections\DbConnections\MongoDb\obj\Debug\netcoreapp2.2\MongoDb.csproj.CoreCompileInputs.cache
+C:\Projects\Studies\CSharp\DbConnections\DbConnections\MongoDb\obj\Debug\netcoreapp2.2\MongoDb.RazorAssemblyInfo.cache
+C:\Projects\Studies\CSharp\DbConnections\DbConnections\MongoDb\obj\Debug\netcoreapp2.2\MongoDb.RazorAssemblyInfo.cs
+C:\Projects\Studies\CSharp\DbConnections\DbConnections\MongoDb\obj\Debug\netcoreapp2.2\MongoDb.AssemblyInfoInputs.cache
+C:\Projects\Studies\CSharp\DbConnections\DbConnections\MongoDb\obj\Debug\netcoreapp2.2\MongoDb.AssemblyInfo.cs
+C:\Projects\Studies\CSharp\DbConnections\DbConnections\MongoDb\obj\Debug\netcoreapp2.2\MongoDb.RazorTargetAssemblyInfo.cache
+C:\Projects\Studies\CSharp\DbConnections\DbConnections\MongoDb\obj\Debug\netcoreapp2.2\MongoDb.dll
+C:\Projects\Studies\CSharp\DbConnections\DbConnections\MongoDb\obj\Debug\netcoreapp2.2\MongoDb.pdb
